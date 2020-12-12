@@ -897,11 +897,11 @@
     <string name="draft_rnk_city_large_title">Cidade grande</string>
     <string name="draft_rnk_conurbation_title">Conurbação</string>
     <string name="draft_rnk_city_small_title">Cidade pequena</string>
-    <string name="draft_rnk_isolateddwelling_title">Habitação isolada</string>
-    <string name="draft_rnk_hamlet_title">Vila</string>
+    <string name="draft_rnk_isolateddwelling_title">Local</string>
+    <string name="draft_rnk_hamlet_title">Aldeia</string>
     <string name="rank_needed_people">Pelo menos %1$,d habitantes</string>
     <string name="draft_rnk_village_small_title">Vila pequena</string>
-    <string name="draft_rnk_village_medium_title">Aldeia</string>
+    <string name="draft_rnk_village_medium_title">Vila</string>
     <string name="draft_rnk_village_big_title">Vila grande</string>
     <string name="draft_rnk_town_small_title">Cidade pequena</string>
     <string name="draft_rnk_town_medium_title">Cidade</string>
